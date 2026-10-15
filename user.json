@@ -41,5 +41,11 @@
         "key": "WOLF2",
         "expirydate": "16-10-2026",
         "Allowoffline": false
+},
+{
+        "device_id": "cfd23e8b6c2d1656",
+        "key": "WOLF3",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
 }
 ]
