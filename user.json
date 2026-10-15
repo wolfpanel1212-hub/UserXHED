@@ -49,15 +49,9 @@
         "Allowoffline": false
 },
 {
-        "device_id": "b09271688cc7e02c",
-        "key": "WOLF4",
-        "expirydate": "16-10-2026",
+        "device_id": "414edb74eaecbafd",
+        "key": "WOLF123",
+        "expirydate": "15-06-2028",
         "Allowoffline": false
 },
-{
-        "device_id": "a0bfc64996e763a6",
-        "key": "WOLF5",
-        "expirydate": "16-10-2028",
-        "Allowoffline": false
-}
 ]
